@@ -1,0 +1,28 @@
+{
+  "name": "namaste-reactjs",
+  "version": "1.0.0",
+  "description": "This is the project",
+  "keywords": [
+    "namste_react",
+    "Raghuveer",
+    "Singh"
+  ],
+  "homepage": "https://github.com/Raghuveer7773/namaste-reactjs#readme",
+  "bugs": {
+    "url": "https://github.com/Raghuveer7773/namaste-reactjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghuveer7773/namaste-reactjs.git"
+  },
+  "license": "ISC",
+  "author": "Raghuveer Singh\\",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
